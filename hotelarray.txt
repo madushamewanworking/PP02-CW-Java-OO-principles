@@ -15,6 +15,7 @@ public class Hotelproject {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         String hotelroomname;
+	String normalRomm;
         
         //declaring room number
         int roomnumber = 1;
